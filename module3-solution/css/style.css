@@ -7,7 +7,7 @@ body{
 #header-nav{
 	background-color: #f6b319;
 	border-radius: 0;
-	border: 0;
+	border: 5px;
 }
 p1{
 	font-size: 35px;
@@ -36,4 +36,13 @@ p2{
 }
 #nav-list a:hover {
   background: #E7E7E7;
+}
+#first{
+	background-color: #50d07d;
+}
+#second{
+	background-color: #d02552;
+}
+#third{
+	background-color: #b2cecf;
 }
